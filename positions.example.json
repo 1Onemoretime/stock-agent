@@ -1,0 +1,9 @@
+{
+  "settings": {
+    "profit_lock_pct": 50,
+    "spread_danger_dollars": 5,
+    "buy_signal": "RSI14 oversold (<30)"
+  },
+  "watchlist": ["AAPL", "SPY", "NVDA", "AMD", "MSFT", "AMZN", "TSM", "STX", "GOOGL", "LMT", "INTC", "PLTR", "MU"],
+  "positions": []
+}

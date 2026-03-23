@@ -1,0 +1,9 @@
+.env
+positions.json
+history.csv
+last_state.json
+reports/
+*.log
+__pycache__/
+.DS_Store
+venv/
