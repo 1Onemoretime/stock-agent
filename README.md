@@ -63,7 +63,7 @@ To get these:
 
 ## Position tracking
 
-Edit `positions.json` to add your holdings:
+Edit `positions.json` to add your holdings (or tell Claude about your position changes):
 
 ```json
 {
