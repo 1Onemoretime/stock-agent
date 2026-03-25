@@ -104,3 +104,12 @@ journalctl --user -u stock-agent.service    # logs
 ```
 
 Note: market hours check will skip execution on weekends and outside 9:30 AM - 4:00 PM ET.
+
+## ⚠️ Risk Tips
+
+**Important: This framework is for research and educational purposes only and does not constitute investment advice.**
+
+- 📊 Trading performance may vary depending on a number of factors
+- 🤖 AI model predictions are uncertain
+- 💰 Investing is risky, so decisions should be made with caution
+- 👨‍💼 It is recommended to consult a professional financial advisor
